@@ -1,0 +1,59 @@
+.header{
+	background-color: #FDAFB1;
+	overflow: hidden;
+}
+.logo{
+	border: 3px solid red;
+	width: 10%;
+	min-height: 80px;
+	font-size: 25px;
+	text-align: center;
+	float: left;
+}
+.navbar{
+	border: 3px solid red;
+	width: 60%;
+	min-height: 50px;
+	font-size: 25px;
+	text-align: center;
+	float: right;
+}
+.banner{
+	background-color: #A3B7B5;
+	overflow: hidden;
+}
+.content{
+	border: 3px solid red;
+	width: 40%;
+	min-height: 200px;
+	margin: 30px auto;
+	font-size: 25px;
+	text-align: center;
+}
+.services{
+	background-color: #594F4E;
+	min-height: 300px;
+	padding: 20px 10px;
+	font-size: 25px;
+	text-align: center;
+}
+.service{
+	margin-bottom: 15px;
+	overflow: hidden;
+}
+.service1{
+	border: 3px solid white;
+	width: 20%;
+	float: left;
+	min-height: 180px;
+	font-size: 25px;
+	text-align: center;
+	margin-left: 4%;
+}
+.contact{
+	background-color: #FDAFB1;
+	min-height: 150px;
+	margin-bottom: 30px;
+	font-size: 25px;
+	text-align: center;
+}
